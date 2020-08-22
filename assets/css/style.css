@@ -12,6 +12,7 @@ body {
 
 hr {
   width: 10%;
+
 }
 
 .open-sans {
@@ -24,4 +25,8 @@ hr {
 
 .gray {
   color: #DDDDDD
+}
+
+.light {
+  color: #0000000D
 }
