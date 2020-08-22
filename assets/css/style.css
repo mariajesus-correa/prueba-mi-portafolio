@@ -18,6 +18,10 @@ hr {
   font-family: 'Open-Sans', sans-serif;
 }
 
-i {
+.purple {
   color: #660066;
+}
+
+.gray {
+  color: #DDDDDD
 }
